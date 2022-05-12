@@ -3,4 +3,5 @@
  stage('Demo') {
      echo 'Hello world'
      sayHello 'Kanwal'
+     cmd
  }
